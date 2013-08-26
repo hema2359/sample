@@ -1,2 +1,1 @@
-ghjsample
-======
+Git is very simple
